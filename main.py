@@ -8,8 +8,8 @@ import os
 
 JOKE = (
     "I taught my dog to fetch my slippers. Now he brings me the neighbor's "
-    "slippers, the mailman's sandwich, and \u2014 last Tuesday \u2014 "
-    "a restraining order."
+    "slippers, the mailman's sandwich, and a restraining order \u2014 which, "
+    "to be fair, he also fetched."
 )
 
 
